@@ -1,3 +1,11 @@
 .vscode
 /Contest_Round_975_DIV_2
 *.exe
+
+*.out
+*.bin
+a.out
+*.o
+*~
+
+*.
