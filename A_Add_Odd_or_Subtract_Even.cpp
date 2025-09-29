@@ -14,9 +14,9 @@ int main()
         else if (a < b)
         {
             if ((b - a) % 2 == 1)
-                cout << 1 << "\n";
+                cout << 1 << "\n ==> ";
             else
-                cout << 2 << "\n";
+                cout << 2 << "\n  ==> ";
         }
         else
         {
