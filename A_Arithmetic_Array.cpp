@@ -20,11 +20,11 @@ int main()
         }
         if (sum == n)
         {
-            cout << 0 << "\n";
+            cout << 0 << "\n ==> ";
         }
         else if (sum < n)
         {
-            cout << 1 << "\n";
+            cout << 1 << "\n ==> ";
         }
         else
         {
