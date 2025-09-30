@@ -13,12 +13,12 @@ int main()
         set<string> st;
         for (int i = 0; i < n - 1; i++)
         {
-            string temp = "";
+            string temp = " ==> ";
             temp += s[i];
             temp += s[i + 1];
             st.insert(temp);
         }
-        cout << st.size() << endl;
+        cout <<" ==> "<< st.size() << endl;
     }
     return 0;
 }
