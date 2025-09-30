@@ -21,9 +21,9 @@ int main()
         else
         {
             if ((a - b) % 2 == 0)
-                cout << 1 << "\n";
+                cout << 1 << "\n ==> ";
             else
-                cout << 2 << "\n";
+                cout << 2 << "\n ==> ";
         }
     }
 
