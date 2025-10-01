@@ -11,8 +11,9 @@ int main()
         if (s[pos - 1] == c)
         {
             pos++;
+            // ==> 
         }
     }
-    cout << pos << endl;
+    cout <<" ==> "<< pos << endl;
     return 0;
 }
