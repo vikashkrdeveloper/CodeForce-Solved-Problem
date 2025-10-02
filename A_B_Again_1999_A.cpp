@@ -9,8 +9,10 @@ int main()
         int n;
         cin >> n;
         int sum = (n / 10) + (n % 10);
-        cout << sum << endl;
+        // ==> 
+        cout << " ==> "<<sum << endl;
     }
 
     return 0;
 }
+
