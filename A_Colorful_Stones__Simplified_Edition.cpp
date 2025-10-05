@@ -12,8 +12,8 @@ int main()
         {
             pos++;
             // ==> 
-        }
-    }
+        }       // ==> 
+    }       // ==> 
     cout <<" ==> "<< pos << endl;
     return 0;
 }
