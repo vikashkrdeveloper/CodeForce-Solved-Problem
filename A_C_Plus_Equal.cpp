@@ -12,8 +12,8 @@ int main()
         while (a <= n && b <= n)
         {
             if (a < b)
-            {
-                a += b;
+            { // ==> 
+                a += b; // ==> 
             }
             else
             {
