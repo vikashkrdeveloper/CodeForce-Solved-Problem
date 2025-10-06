@@ -9,8 +9,8 @@ int main()
     for (char c : t)
     {
         if (s[pos - 1] == c)
-        {
-            pos++;
+        { // ==> 
+            pos++; // ==> 
             // ==> 
         }       // ==> 
     }       // ==> 
