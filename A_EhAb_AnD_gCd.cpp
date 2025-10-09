@@ -8,8 +8,8 @@ int main()
     while (t--)
     {
         long long x;
-        cin >> x;
-        cout << 1 << " " << x - 1 << "\n";
+        cin >> x; // ==> 
+        cout << 1 << " " << x - 1 << "\n"; // ==> 
     }
     return 0;
 }
