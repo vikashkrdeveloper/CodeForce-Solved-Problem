@@ -13,8 +13,8 @@ int main()
         string x, s;
         cin >> x >> s;
 
-        string cur = x; // start with initial string
-        int ops = 0;    // count operations
+        string cur = x;
+        int ops = 0;
         bool found = false;
 
         // Cap the maximum length we need to build
